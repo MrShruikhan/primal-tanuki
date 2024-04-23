@@ -1,0 +1,7 @@
+@import url('./main-layout.css');
+@import url('./views/home-view.css');
+@import url('./views/actions-view.css');
+    [theme~="dark"] {
+      --lumo-base-color: hsl(214, 71%, 4%);
+
+    }
